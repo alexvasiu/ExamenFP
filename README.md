@@ -1,3 +1,3 @@
 # FP - Labs
 
-UBB Fundametals Programming **Labs** and **Exam**
+UBB Fundamentals Programming **Labs** and **Exam**
