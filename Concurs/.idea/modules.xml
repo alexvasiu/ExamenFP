@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Concurs.iml" filepath="$PROJECT_DIR$/.idea/Concurs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Familie/.idea/Familie.iml" filepath="$PROJECT_DIR$/../Familie/.idea/Familie.iml" />
+    </modules>
+  </component>
+</project>
