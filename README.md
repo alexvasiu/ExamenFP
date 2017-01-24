@@ -1,3 +1,3 @@
-# ExamenFP
+# FP - Labs
 
-UBB FP Practic Exam - Python(3.5)
+UBB Fundametals Programming **Labs** and **Exam**
